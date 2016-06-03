@@ -327,10 +327,12 @@
         "particulates":0.02
 
         //cooling and oil system
-        "thermalsEnabled":false
+        "thermalsEnabled":true
         "engineBlockMaterial":"aluminum"
+        "engineBlockAirCoolingEfficiency":50
         "oilVolume":4
-        "radiatorEffectiveness":30000
+        "coolantVolume":40
+        "radiatorEffectiveness":50000
         "oilRadiatorEffectiveness":300000
 
         //engine durability
