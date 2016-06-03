@@ -318,7 +318,7 @@
         "shiftUpRPM":6700,
         "maxRPM":7200,
         "inertia":0.075,
-        "friction":12
+        "friction":6
         "brakingCoefRPS":0.15
         "burnEfficiency":0.41
         "throttleSensitivity":1.2
