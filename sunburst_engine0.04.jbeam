@@ -332,7 +332,7 @@
         "oilVolume":4
 
         //engine durability
-        "cylinderWallTemperatureDamageThreshold":180
+        "cylinderWallTemperatureDamageThreshold":300
         "headGasketDamageThreshold":1500000
         "pistonRingDamageThreshold":1500000
         "connectingRodDamageThreshold":2000000
