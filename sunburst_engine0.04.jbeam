@@ -330,6 +330,8 @@
         "thermalsEnabled":true
         "engineBlockMaterial":"aluminum"
         "oilVolume":4
+        "radiatorEffectiveness":30000
+        "oilRadiatorEffectiveness":300000
 
         //engine durability
         "cylinderWallTemperatureDamageThreshold":300
