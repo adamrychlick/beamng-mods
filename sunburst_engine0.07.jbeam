@@ -328,13 +328,13 @@
 
         //cooling and oil system
         "thermalsEnabled":true
-        "engineBlockMaterial":"aluminum"
+        "engineBlockMaterial":"iron"
         "engineBlockAirCoolingEfficiency":50
         "oilVolume":4
         "coolantVolume":40
-        "radiatorEffectiveness":30000
+        "radiatorEffectiveness":30000,
         "oilRadiatorEffectiveness":300000
-        "radiatorArea":1
+        "radiatorArea":1,
 
         //engine durability
         "cylinderWallTemperatureDamageThreshold":300
