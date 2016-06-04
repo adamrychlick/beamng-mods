@@ -473,7 +473,6 @@
         "revLimiterRPMDrop":50,
         "burnEfficiency":0.36
         "inertia":0.06,
-        "clutchTorque":380
         "cylinderWallTemperatureDamageThreshold":150
     },
     "nodes": [
@@ -558,7 +557,6 @@
         "revLimiterRPMDrop":50,
         "burnEfficiency":0.33
         "inertia":0.05,
-        "clutchTorque":460
         "cylinderWallTemperatureDamageThreshold":150
     },
     "nodes": [
@@ -614,7 +612,6 @@
         "maxRPM":8000,
         "burnEfficiency":0.24,
         "inertia":0.10,
-        "clutchTorque":"$clutchTorque"
         "cylinderWallTemperatureDamageThreshold":180
     },
     "turbocharger": {
